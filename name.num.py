@@ -24,4 +24,25 @@ while i<len(list):
 # 
 # 
 
+list="likitha"
+i=0
+c=0
+while i<len(list):
+    s=list[i]
+    if s==list[i]:
+        c=list[i]
+    i=i+1
+print(c)
 
+
+list=[1,2,3,4,5,3,5]
+i=0
+c=0
+b=[]
+while i<len(list):
+    if list[i] not in b:
+        s=list[i]
+        c=c+1
+    i+=1
+print(c)
+        

@@ -153,4 +153,4 @@
 #     if sec_max<list[i] and list[i]!=max:
 #         sec_max=list[i]
 #     i+=1
-# print(sec_max)       
+# print(sec_max)  

@@ -12,3 +12,4 @@ while i<len(list):
     i+=1
 c=(b+a)
 print(c)
+print([count])
